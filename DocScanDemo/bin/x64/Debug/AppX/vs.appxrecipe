@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SPROUT-PC</Machine>
+    <WindowsUser>ahowson</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>b947a2f7-15af-4ed2-b98b-de74d642b6ab</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>96818F4204564C7DE6A4905FF88D8E15488605B0A08C75E685DA842D887C9A06</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b947a2f7-15af-4ed2-b98b-de74d642b6ab_1.0.2.1_x64__jzds0f159nq6m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b947a2f7-15af-4ed2-b98b-de74d642b6ab_jzds0f159nq6m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b947a2f7-15af-4ed2-b98b-de74d642b6ab</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ahowson</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.2.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-10T15:02:29.226</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\bin\x64\Debug\DocScanDemo.exe">
+      <PackagePath>DocScanDemo.exe</PackagePath>
+      <Modified>2015-09-10T15:02:29.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-21T16:56:20.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-21T16:55:41.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-21T21:24:30.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-21T16:55:15.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\camIco.png">
+      <PackagePath>camIco.png</PackagePath>
+      <Modified>2015-08-19T16:50:49.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\capture.wav">
+      <PackagePath>capture.wav</PackagePath>
+      <Modified>2015-08-19T17:46:58.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\bin\x64\Debug\DocScanDemo.xr.xml">
+      <PackagePath>DocScanDemo.xr.xml</PackagePath>
+      <Modified>2015-09-10T15:01:26.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-10T15:01:26.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-10T15:01:26.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ahowson.EDOCNY2\Documents\Visual Studio 2015\Projects\DocScanDemo\DocScanDemo\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-10T15:01:28.212</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
